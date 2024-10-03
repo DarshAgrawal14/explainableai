@@ -133,7 +133,9 @@ GEMINI_API_KEY=your_api_key_here
 
 ## API Reference
 
-For detailed API documentation, please refer to our [API Reference](https://explainableai.readthedocs.io/en/latest/api.html).
+For detailed API documentation, please refer to our [API Reference](https://pypi.org/project/explainableai/)
+Topics
+data-science).
 
 ## Running Locally
 
